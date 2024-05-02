@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Amal Lemghari
+- 🏫 I'm a student at @YouCodeSchool
 - 👀 I'm passionate about web development and creating innovative applications.
 - 🌱 Currently, I'm honing my skills in full-stack development, exploring both front-end and back-end technologies.
 - 💻 I'm proficient in several programming languages and frameworks, including JavaScript (React.js, Vue.js), HTML, CSS, PHP (Laravel), and many others.
